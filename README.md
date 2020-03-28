@@ -1,2 +1,1 @@
-# Budget-Project
-A Python project that projects personal income and expenses up to 12 months, and can be edited in real time.
+As the saying goes... "I'm here to learn." My goal is to create a real Python project, using what I've learned so far. Ultimately, I hope to work from home as a Python programmer. I'm working alone, so far. I haven't decided what the project will be yet, but this looks like the right place to get started.
